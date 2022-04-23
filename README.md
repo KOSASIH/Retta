@@ -26,3 +26,5 @@ What problems does Retta solve?
 1. Decentralized Payment Solution :the problem of losing efficiency in payment transaction caused by non-decentralized payment services such as PayPal and etc... 
 2. The problem of Data Leakage & Privacy Issues : the ownership of personal sensitive data will be unified and transferred to the owner himself, so that the owners can control their own privacy, and a secure identity management system can be created. 
 3. Smart Contract: centralized applications have their server managing user information, which is prone to attack, or data falsification by hacker. but Retta's smart contract, which Is run on a decentralized blockchain platform, makes it much safer.
+
+The use of blockchain technology makes it possible to store value, make transactions and execute smart contracts at low costs, without the need for a trusted intermediary or centralized arbitrator.
