@@ -1,4 +1,6 @@
 [![CodeQL](https://github.com/KOSASIH/Retta/actions/workflows/codeql.yml/badge.svg)](https://github.com/KOSASIH/Retta/actions/workflows/codeql.yml)
+[![Codacy Security Scan](https://github.com/KOSASIH/Retta/actions/workflows/codacy.yml/badge.svg)](https://github.com/KOSASIH/Retta/actions/workflows/codacy.yml)
+
 
 # Retta
 Retta is a Web3 Decentralized application blockchain technology that connects applications with payment system. 
