@@ -1,6 +1,6 @@
 [![CodeQL](https://github.com/KOSASIH/Retta/actions/workflows/codeql.yml/badge.svg)](https://github.com/KOSASIH/Retta/actions/workflows/codeql.yml)
 [![Codacy Security Scan](https://github.com/KOSASIH/Retta/actions/workflows/codacy.yml/badge.svg)](https://github.com/KOSASIH/Retta/actions/workflows/codacy.yml)
-
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/11e5fa8a1b464e348af8b4f1862c3373)](https://www.codacy.com/gh/KOSASIH/Retta/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KOSASIH/Retta&amp;utm_campaign=Badge_Grade)
 
 # Retta
 Retta is a Web3 Decentralized application blockchain technology that connects applications with payment system. 
